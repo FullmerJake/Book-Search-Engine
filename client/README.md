@@ -1,68 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ # Book Search Engine
+  ## Description
+  [![License](https://img.shields.io/badge/License-MIT-<Green>.svg)](https://shields.io/)
 
-## Available Scripts
+  This is a MERN application that allows you to develop a list of books that you can save to remember to either look up, or cross off your list without fear of forgetting which ones!
 
-In the project directory, you can run:
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contribution](#contribution)
+  * [Tests](#tests)
+  * [Contact](#contact)
 
-### `yarn start`
+  ## Installation
+  First you need to clone the repo to your computer. Once you've done that, make sure that you open a terminal at the root folder of the application and run npm install to get all the dependancies. Once you've done that you can code away to your hearts content. npm start will start the server so you can see what the changes you make will do to the application. 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  ## Usage
+  Once you've navigated to the site hosting the application, simply log in and start searching for books. Navigate to the Saved Books tab to see which books you've saved and remove any that you no longer need. There will be a button at the bottom of the cards that allow you to save and delete the books to and from your profile. 
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  ## License
+  This project uses the MIT license. Check out <a href="https://choosealicense.com">this</a> website for more information on this and other licenses. 
 
-### `yarn test`
+  ## Contribution
+  This was originally developed using a RESTful API and was adapted into using GraphQL. The next best step would be to migrate it to use as a mobile application, that can be used with or without internet. 
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ## Tests
+  See Images
+  
+  ## Contact
+  Learn more about the owner of this project by visiting their Github Profile: <a href=https://github.com/FullmerJake>FullmerJake</a>
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+  If you have any questions or concerns about this project, you can get a hold of the owner at w.jake.fullmer@gmail.com! Just send them an email and they will get back to you as soon as they can. 
