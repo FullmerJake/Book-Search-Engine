@@ -28,8 +28,8 @@
 
   ## Tests
   ![Demo1](screenshot1.png)
-  ![Demo2](screenshot 2.png)
-  ![Demo3](screenshot 3.png)
+  ![Demo2](screenshot2.png)
+  ![Demo3](screenshot3.png)
 
   
   ## Contact
