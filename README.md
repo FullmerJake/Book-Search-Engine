@@ -1,6 +1,6 @@
  # Book Search Engine
 
-<a href="https://desolate-spire-68234.herokuapp.com/> Live Link </a>
+<a href="https://desolate-spire-68234.herokuapp.com"> Live Link </a>
 
   ## Description
   [![License](https://img.shields.io/badge/License-MIT-<Green>.svg)](https://shields.io/)
