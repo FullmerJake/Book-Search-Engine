@@ -1,5 +1,5 @@
  # Book Search Engine
-    Live Link: https://desolate-spire-68234.herokuapp.com/
+    [Live Link](https://desolate-spire-68234.herokuapp.com/)
 
   ## Description
   [![License](https://img.shields.io/badge/License-MIT-<Green>.svg)](https://shields.io/)
@@ -27,8 +27,10 @@
   This was originally developed using a RESTful API and was adapted into using GraphQL. The next best step would be to migrate it to use as a mobile application, that can be used with or without internet. 
 
   ## Tests
-  See Images
-  
+  ![Demo1](screenshot1.png)
+  ![Demo2](screenshot2.png)
+  ![Demo3](screenshot3.png)
+
   
   ## Contact
   Learn more about the owner of this project by visiting their Github Profile: <a href=https://github.com/FullmerJake>FullmerJake</a>
